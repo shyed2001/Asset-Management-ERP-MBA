@@ -12,7 +12,9 @@
 import openpyxl
 import os
 
-os.chdir('C:\\Users\\HP\\Desktop')
+## os.chdir('C:\\Users\\HP\\Desktop') ## For office computer. ##
+
+os.chdir('C:\\Users\\Win-10\\Desktop') ## For home computer. ##
 
 dirpath = os.getcwd()
 print("current directory is : " + dirpath)
@@ -24,6 +26,25 @@ scriptpath = os.path.realpath(__file__)
 print("Script path is : " + scriptpath)
 
 print ("Current openpyxl version :" , openpyxl.__version__)
+
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\Testopenpyxl.xlsx')
+# type(wb) or print (wb) #
+#print (wb)
+
+SN=wb.get_sheet_names()
+print('sheet_names : '  , SN)
+
+sheet= wb.get_sheet_by_name('Sheet1')
+
+# type() or print () #
+print (sheet)
+
+
+sheeta1=sheet['A1'].value
+
+print(sheeta1)
+
+
 
 
 
