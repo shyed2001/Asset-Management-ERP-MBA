@@ -289,35 +289,70 @@ print("""
 
 --------- Start of written code ---------- --------- Start of written code ----------
 
-
+sheet.row_dimensions[1].height =71
+sheet.row_dimensions[11].height =77
+sheet.column_dimensions['E'].width = 43
+sheet.column_dimensions['D'].width = 34
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 ======= End of written code ========== End of written code =======
 
   """)
-
-
+sheet.row_dimensions[1].height =71
+sheet.row_dimensions[11].height =77
+sheet.column_dimensions['E'].width = 43
+sheet.column_dimensions['D'].width = 34
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
 --------- Start of written code ---------- --------- Start of written code ----------
-
+print(sheet.row_dimensions[1].height)
+print(sheet.row_dimensions[2].height)
+print(sheet.column_dimensions['A'].width)
+print(sheet.column_dimensions['B'].width)
 
 ======= End of written code ========== End of written code =======
 
   """)
 
-
+print(sheet.row_dimensions[1].height)
+print(sheet.row_dimensions[2].height)
+print(sheet.column_dimensions['A'].width)
+print(sheet.column_dimensions['B'].width)
 
 print("""
 
 --------- Start of written code ---------- --------- Start of written code ----------
-
+reload the workbook
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+sheet=wb.get_sheet_by_name('My wb Sheet')
+type(sheet)
+print(sheet)
 
 ======= End of written code ========== End of written code =======
 
   """)
 
+##reload the workbook
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+sheet=wb.get_sheet_by_name('My wb sheet')
+## type(sheet) ## this does not work
+print(sheet)
 
+print("""
+
+--------- Start of written code ---------- --------- Start of written code ----------
+from openpyxl.styles import Font
+sheet['B1'].font=Font(sz=14, bold=True, italic=True)
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+
+======= End of written code ========== End of written code =======
+
+  """)
+from openpyxl.styles import Font
+sheet['B1'].font=Font(sz=14, bold=True, italic=True)
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
