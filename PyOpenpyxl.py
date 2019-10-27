@@ -352,6 +352,41 @@ wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
   """)
 from openpyxl.styles import Font
 sheet['B1'].font=Font(sz=14, bold=True, italic=True)
+sheet['B1'].font=Font(sz=14, bold=True, italic=True)
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+
+print("""
+
+--------- Start of written code ---------- --------- Start of written code ----------
+import random
+## Create sheet by
+wb.create_sheet(title="My 3rd sheet", index=2)
+## OR Create sheet by
+sheet=wb.create_sheet('My 4th sheet')
+
+for i in range (1, 111, 2):
+    sheet['A' + str (i)].value = random.randint(1,1111)
+
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+
+======= End of written code ========== End of written code =======
+
+ ==== """)
+
+import random
+## Create sheet by
+wb.create_sheet(title="My 3rd sheet", index=2)
+## OR Create sheet by
+sheet=wb.create_sheet('My 4th sheet')
+
+for i in range (1, 111, 2):
+    sheet['A' + str (i)].value = random.randint(1,1111)
+
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+
+for i in range (1, 111):
+    sheet['B' + str (i)].value = random.randint(1,9999)
+
 wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
@@ -361,7 +396,10 @@ print("""
 
 ======= End of written code ========== End of written code =======
 
-  """)
+====  """)
+
+
+
 
 
 print("""
@@ -371,8 +409,18 @@ print("""
 
 ======= End of written code ========== End of written code =======
 
-  """)
+ ===== """)
 
+
+
+print("""
+
+--------- Start of written code ---------- --------- Start of written code ----------
+
+
+======= End of written code ========== End of written code =======
+
+ ===== """)
 
 
 
