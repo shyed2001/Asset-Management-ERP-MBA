@@ -18,16 +18,16 @@ import openpyxl
 import os
 
 print(""" --------- Start of written code ----------
-## os.chdir('C:\\Users\\HP\\Desktop') ## For office computer. ##
+## os.chdir('C:\\Users\\Win-10\\Desktop') ## For office computer. ##
 
-os.chdir('C:\\Users\\HP\\Desktop') ## For home computer. ##
+os.chdir('C:\\Users\\Win-10\\Desktop') ## For home computer. ##
 ## Always use \\ for avoiding any error in windows.
 ## use / or // for linux
   ======= End of written code ========== End of written code ======= Output ======Output ====== """)
 
-## os.chdir('C:\\Users\\HP\\Desktop') ## For office computer. ##
+## os.chdir('C:\\Users\\Win-10\\Desktop') ## For office computer. ##
 
-os.chdir('C:\\Users\\HP\\Desktop') ## For home computer. ##
+os.chdir('C:\\Users\\Win-10\\Desktop') ## For home computer. ##
 ## Always use \\ for avoiding any error in windows.
 ## use / or // for linux
 
@@ -59,14 +59,14 @@ print("Script path is : " + scriptpath)
 print ("Current openpyxl version :" , openpyxl.__version__)
 
 print(""" --------- Start of written code ----------
-wb=openpyxl.load_workbook('C:\\Users\\HP\\Desktop\\Testopenpyxl.xlsx')
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\Testopenpyxl.xlsx')
 # type(wb) or print (wb) #
 print (wb)
 SN=wb.get_sheet_names()
 print('sheet_names : '  , SN)
   ======= End of written code ========== End of written code ======= Output ======Output ====== """)
 
-wb=openpyxl.load_workbook('C:\\Users\\HP\\Desktop\\Testopenpyxl.xlsx')
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\Testopenpyxl.xlsx')
 # type(wb) or print (wb) #
 print (wb)
 
@@ -154,12 +154,12 @@ print(sheetC7)
 
 print(""" --------- Start of written code ----------
 sheet['C11'].value = 43
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 ## can not save into currently open files.
 
   ======= End of written code ========== End of written code ======= Output ======Output ====== """)
 sheet['C11'].value = 43
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 ## can not save into currently open files.
 
 
@@ -173,12 +173,12 @@ print(STL) ## current sheet name
 
 print(""" --------- Start of written code ----------
 sheet.title= "My wb sheet"
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
   ======= End of written code ========== End of written code ======= Output ======Output ====== """)
 
 sheet.title= "My wb sheet"
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print(""" --------- Start of written code ----------
 STL2=sheet.title
@@ -278,12 +278,12 @@ print("""
 --------- Start of written code ---------- --------- Start of written code ----------
 
 wb.create_sheet(title="My 2nd sheet", index=1)
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
  ======= End of written code ========== End of written code ======= Output ======""")
 
 wb.create_sheet(title="My 2nd sheet", index=1)
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
@@ -293,7 +293,7 @@ sheet.row_dimensions[1].height =71
 sheet.row_dimensions[11].height =77
 sheet.column_dimensions['E'].width = 43
 sheet.column_dimensions['D'].width = 34
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 ======= End of written code ========== End of written code =======
 output ======
@@ -302,7 +302,7 @@ sheet.row_dimensions[1].height =71
 sheet.row_dimensions[11].height =77
 sheet.column_dimensions['E'].width = 43
 sheet.column_dimensions['D'].width = 34
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
@@ -325,7 +325,7 @@ print("""
 
 --------- Start of written code ---------- --------- Start of written code ----------
 reload the workbook
-wb=openpyxl.load_workbook('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 sheet=wb.get_sheet_by_name('My wb Sheet')
 type(sheet)
 print(sheet)
@@ -336,7 +336,7 @@ output ======
   """)
 
 ##reload the workbook
-wb=openpyxl.load_workbook('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb=openpyxl.load_workbook('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 sheet=wb.get_sheet_by_name('My wb sheet')
 ## type(sheet) ## this does not work
 print(sheet)
@@ -346,7 +346,7 @@ print("""
 --------- Start of written code ---------- --------- Start of written code ----------
 from openpyxl.styles import Font
 sheet['B1'].font=Font(sz=14, bold=True, italic=True)
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 ======= End of written code ========== End of written code =======
 
@@ -355,7 +355,7 @@ output ======
 from openpyxl.styles import Font
 sheet['B1'].font=Font(sz=14, bold=True, italic=True)
 sheet['B1'].font=Font(sz=14, bold=True, italic=True)
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
@@ -369,7 +369,7 @@ sheet=wb.create_sheet('My 4th sheet')
 for i in range (1, 111, 2):
     sheet['A' + str (i)].value = random.randint(1,1111)
 
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 ======= End of written code ========== End of written code =======
 
@@ -385,17 +385,19 @@ sheet=wb.create_sheet('My 4th sheet')
 for i in range (1, 111, 2):
     sheet['A' + str (i)].value = random.randint(1,1111)
 
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 for i in range (1, 111):
     sheet['B' + str (i)].value = random.randint(1,9999)
 
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
 
 print("""
 
 --------- Start of written code ---------- --------- Start of written code ----------
-
+refObj= openpyxl.chart.Reference(sheet(1,1),(10,1))
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+print(refObj)
 
 
 ======= End of written code ========== End of written code =======
@@ -404,7 +406,9 @@ output ======
   """)
 
 
-
+refObj= openpyxl.chart.Reference(sheet(1,1),(10,1))
+wb.save('C:\\Users\\Win-10\\Desktop\\2ndTestopenpyxl.xlsx')
+print(refObj)
 
 
 print("""
