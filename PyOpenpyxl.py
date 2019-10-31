@@ -405,10 +405,24 @@ print(refObj)
 output ======
   """)
 
+import os
+from selenium import webdriver
 
-refObj= openpyxl.chart.Reference(sheet(1,1),(10,1))
-wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
-print(refObj)
+borwser = webdriver.Chrome()
+
+browser.get('https://www.youtube.com')
+
+elem = browser.find_element_by_css_selector('#description > yt-formatted-string > a:nth-child(1)')
+
+elem.texy
+
+elem.click()
+
+browser.quit()
+
+##refObj= openpyxl.chart.Reference(sheet(1,1),(10,1))
+##wb.save('C:\\Users\\HP\\Desktop\\2ndTestopenpyxl.xlsx')
+##print(refObj)
 
 
 
