@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
-# Name:        PYGUIautoloader
-# Purpose:     Automate APP programs loading
+# Name:        PyGUI Copy PYGUIautoloader
+# Purpose:     PYGUIautoloader Automate APP programs loading
 #
 # Author:      Shyed Shahriar Housaini
 #
@@ -9,8 +9,15 @@
 # Licence:     <your licence: Shyed Shahriar Housaini's terms and conditions.>
 #-------------------------------------------------------------------------------
 
-def main():
-    pass
+## PYGUIautoloader Automate APP programs loading ##
 
-if __name__ == '__main__':
-    main()
+import tkinter as tk
+from tkinter import filedialog, Text 
+import os
+
+root =tk.TK()
+
+root.mainloop()
+
+
+
