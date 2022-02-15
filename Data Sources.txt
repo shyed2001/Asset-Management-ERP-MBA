@@ -1,0 +1,33 @@
+What are the Sources of Data?
+Sources of Data
+The sources of data can be classified into two types: statistical and non-statistical. Statistical sources refer to data that is gathered for some official purposes, incorporate censuses, and officially administered surveys. Non-statistical sources refer to the collection of data for other administrative purposes or for the private sector.
+
+What are the different sources of data?
+The following are the two sources of data:
+
+Internal sources
+When data is collected from reports and records of the organisation itself, they are known as the internal sources.
+For example, a company publishes its annual report’ on profit and loss, total sales, loans, wages, etc.
+External sources
+When data is collected from sources outside the organisation, they are known as the external sources. For example, if a tour and travel company obtains information on Karnataka tourism from Karnataka Transport Corporation, it would be known as an external source of data.
+Types of Data
+A) Primary data
+
+Primary data means first-hand information collected by an investigator.
+It is collected for the first time.
+It is original and more reliable.
+For example, the population census conducted by the government of India after every ten years is primary data.
+B) Secondary data
+
+Secondary data refers to second-hand information.
+It is not originally collected and rather obtained from already published or unpublished sources.
+For example, the address of a person taken from the telephone directory or the phone number of a company taken from Just Dial are secondary data.
+Students can also refer to Meaning and Sources of Secondary Data
+
+Methods of Collecting Primary Data
+Direct personal investigation
+Indirect oral investigation
+Information through correspondents
+Telephonic interview
+Mailed questionnaire
+The questionnaire filled by enumerators
