@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="16" viewBox="0 0 22 16">
+    <defs>
+        <rect id="mp2gkpogia" width="22" height="16" x="0" y="0" rx="2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-1176 -901) translate(1160 854) translate(16 47)">
+                    <mask id="roji5mzx2b" fill="#fff">
+                        <use xlink:href="#mp2gkpogia"/>
+                    </mask>
+                    <rect width="21.5" height="15.5" x=".25" y=".25" stroke="#F5F5F5" stroke-width=".5" rx="2"/>
+                    <path fill="#FF3131" d="M15.714 0H22V16H15.714zM0 0H6.286V16H0zM12.28 7.763c-.128.131-.204.094-.168-.09l.46-2.34-1.048.534-.524-1.6-.524 1.6-1.047-.534.46 2.34c.035.18-.04.22-.17.09l-.582-.593c-.128-.13-.333-.134-.47.005l-.286.292-1.048-.534L7.857 8l-.286.292c-.131.133-.135.346-.006.477l1.34 1.364h1.571l.262 1.6h.524l.262-1.6h1.571l1.34-1.364c.128-.13.13-.338-.006-.477L14.143 8l.524-1.067-1.048.534-.286-.292c-.131-.133-.342-.135-.47-.005l-.583.593z" mask="url(#roji5mzx2b)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

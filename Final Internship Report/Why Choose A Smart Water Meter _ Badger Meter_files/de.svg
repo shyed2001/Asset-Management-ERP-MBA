@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="16" viewBox="0 0 22 16">
+    <defs>
+        <filter id="qphdofozkc" width="113.6%" height="156.2%" x="-6.8%" y="-28.1%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+        <filter id="7lmurjx2ce" width="113.6%" height="156.2%" x="-6.8%" y="-28.1%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+            <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+        <path id="efh6qlbqld" d="M0 5.333H22V10.666H0z"/>
+        <path id="bmi4qnl6if" d="M0 10.667H22V16H0z"/>
+        <rect id="4myoldicwa" width="22" height="16" x="0" y="0" rx="2"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-1176 -1049) translate(1160 854) translate(16 195)">
+                        <mask id="vg8biqt5bb" fill="#fff">
+                            <use xlink:href="#4myoldicwa"/>
+                        </mask>
+                        <use fill="#FFF" xlink:href="#4myoldicwa"/>
+                        <path fill="#262626" d="M0 0H22V5.333H0z" mask="url(#vg8biqt5bb)"/>
+                        <g mask="url(#vg8biqt5bb)">
+                            <use fill="#000" filter="url(#qphdofozkc)" xlink:href="#efh6qlbqld"/>
+                            <use fill="#F01515" xlink:href="#efh6qlbqld"/>
+                        </g>
+                        <g mask="url(#vg8biqt5bb)">
+                            <use fill="#000" filter="url(#7lmurjx2ce)" xlink:href="#bmi4qnl6if"/>
+                            <use fill="#FFD521" xlink:href="#bmi4qnl6if"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

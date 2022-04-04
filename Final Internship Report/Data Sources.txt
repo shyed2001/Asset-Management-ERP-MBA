@@ -1,0 +1,133 @@
+What are the Sources of Data?
+Sources of Data
+The sources of data can be classified into two types: statistical and non-statistical. Statistical sources refer to data that is gathered for some official purposes, incorporate censuses, and officially administered surveys. Non-statistical sources refer to the collection of data for other administrative purposes or for the private sector.
+
+What are the different sources of data?
+The following are the two sources of data:
+
+Internal sources
+When data is collected from reports and records of the organisation itself, they are known as the internal sources.
+For example, a company publishes its annual report’ on profit and loss, total sales, loans, wages, etc.
+External sources
+When data is collected from sources outside the organisation, they are known as the external sources. For example, if a tour and travel company obtains information on Karnataka tourism from Karnataka Transport Corporation, it would be known as an external source of data.
+Types of Data
+A) Primary data
+
+Primary data means first-hand information collected by an investigator.
+It is collected for the first time.
+It is original and more reliable.
+For example, the population census conducted by the government of India after every ten years is primary data.
+B) Secondary data
+
+Secondary data refers to second-hand information.
+It is not originally collected and rather obtained from already published or unpublished sources.
+For example, the address of a person taken from the telephone directory or the phone number of a company taken from Just Dial are secondary data.
+Students can also refer to Meaning and Sources of Secondary Data
+
+Methods of Collecting Primary Data
+Direct personal investigation
+Indirect oral investigation
+Information through correspondents
+Telephonic interview
+Mailed questionnaire
+The questionnaire filled by enumerators
+
+
+Primary Data	Secondary Data
+Definition
+
+Primary data are those that are collected for the first time.	Secondary data refer to those data that have already been collected by some other person.
+Originality
+
+These are original because these are collected by the investigator for the first time.	These are not original because someone else has collected these for his own purpose.
+Nature of Data
+
+These are in the form of raw materials.	These are in the finished form.
+Reliability and Suitability
+
+These are more reliable and suitable for the enquiry because these are collected for a particular purpose.	These are less reliable and less suitable as someone else has collected the data which may not perfectly match our purpose.
+Time and Money
+
+Collecting primary data is quite expensive both in the terms of time and money.	Secondary data requires less time and money; hence it is economical.
+Precaution and Editing
+
+No particular precaution or editing is required while using the primary data as these were collected with a definite purpose.	Both precaution and editing are essential as secondary data were collected by someone else for his own purpose.
+
+
+This article covers the concepts and differences between the primary and secondary data, which is crucial for Commerce students. Stay tuned to our website for more such exciting concepts.
+
+
+Primary, Secondary, and Tertiary Sources
+Sources of information or evidence are often categorized as primary, secondary, or tertiary material. These classifications are based on the originality of the material and the proximity of the source or origin. This informs the reader as to whether the author is reporting information that is first hand or is conveying the experiences and opinions of others which is considered second hand. Determining if a source is primary, secondary or tertiary can be tricky. Below you will find a description of the three categories of information and examples to help you make a determination.
+
+Primary Sources
+These sources are records of events or evidence as they are first described or actually happened without any interpretation or commentary. It is information that is shown for the first time or original materials on which other research is based.  Primary sources display original thinking, report on new discoveries, or share fresh information.
+
+Examples of primary sources:
+Theses, dissertations, scholarly journal articles (research based), some government reports, symposia and conference proceedings, original artwork, poems, photographs, speeches, letters, memos, personal narratives, diaries, interviews, autobiographies, and correspondence.
+
+Secondary Sources
+These sources offer an analysis or restatement of primary sources. They often try to describe or explain primary sources. They tend to be works which summarize, interpret, reorganize, or otherwise provide an added value to a primary source.
+
+Examples of Secondary Sources:
+Textbooks, edited works, books and articles that interpret or review research works, histories, biographies, literary criticism and interpretation, reviews of law and legislation, political analyses and commentaries.
+
+Tertiary Sources
+These are sources that index, abstract, organize, compile, or digest other sources. Some reference materials and textbooks are considered tertiary sources when their chief purpose is to list, summarize or simply repackage ideas or other information. Tertiary sources are usually not credited to a particular author.
+
+Examples of Tertiary Sources:
+Dictionaries/encyclopedias (may also be secondary), almanacs, fact books, Wikipedia, bibliographies (may also be secondary), directories, guidebooks, manuals, handbooks, and textbooks (may be secondary), indexing and abstracting sources.
+
+
+
+What does primary vs. secondary vs. tertiary mean? 
+The distinction between primary, secondary and tertiary sources hinges on how far from the original event or phenomenon the information source is created. Is it first-hand knowledge? A second-hand interpretation? A third-hand synthesis and summary of what is known? 
+
+Primary sources are created as close to the original event or phenomenon as it is possible to be. For example, a photograph or video of an event is a primary source. Data from an experiment is a primary source. 
+Secondary sources are one step removed from that. Secondary sources are based on or about the primary sources. For example, articles and books in which authors interpret data from another research team's experiment or archival footage of an event are usually considered secondary sources.
+Tertiary sources are one further step removed from that. Tertiary sources summarize or synthesize the research in secondary sources. For example, textbooks and reference books are tertiary sources.
+Why is this important? Because different kinds of research call for using primary, secondary, and tertiary sources in different ways. For example, a research paper usually requires a combination of primary and secondary sources.
+
+Primary, Secondary, and Tertiary Sources
+The video below describes in greater detail more about the differences between primary, secondary and tertiary sources, and how each is used in research.
+
+Examples of Primary Sources
+This chart offers some examples of topics you might research, along with examples of what might be considered primary sources for those topics.
+Topic	Example of an Appropriate Primary Source
+Ancient Greek drama	Ancient Greek plays; ancient Greek essays about drama.
+Learning styles of children	Data from observational studies; data from experiments
+Performance of a company	Annual reports; SEC filings
+Ancient Chinese textiles	Contemporary paintings of the textiles; an ancient Chinese manual on weaving
+Hmong immigrants' attitudes toward libraries	Recordings or transcripts of interviews with Hmong immigrants
+President F. Roosevelt's speeches	Recordings of his Fireside Chat radio broadcasts; his speech notes
+Sinking of a ship in 1920	Newspapers and newsreels about the event; a memoir
+Effects of different bleach concentrations on a virus	Data from an experiment
+ 
+
+Where To Find Primary Sources
+Unlike articles and books, primary sources are often unpublished, and that can make them harder to find. But there are many tools to help you locate them.
+
+The Web 
+Use a search engine to search for your topic, adding phrases like "primary sources," "letters," "newsreel," etc.
+Primary source databases 
+Many libraries subscribe to databases of primary sources. Empire State College Online Library's primary source databases can be found in the Primary Sources subject guide.
+Newspapers 
+Newspapers are key primary sources for past current events. Try searching newspaper databases with deep archives, likeNew York Times Archive and websites like the Library of Congress's Chronicling America: Historic American Newspapers.
+Scientific research articles 
+In the sciences, peer-reviewed research articles are considered primary sources. This makes sense, because they are full of direct evidence in the form of data. 
+Project Gutenberg 
+If your topic is literature, then old literature counts as a primary source. Project Gutenberg has digitized an incredible amount of public domain literature. 
+Museums, archives, historical societies, civic and cultural groups, religious institutions, and public libraries
+Cultural institutions often collect pictures, letters, diaries, archival materials, ephemera, etc. As it becomes faster and cheaper to do so, they are preserving this material and providing public access to it by scanning it and making it available on the Web. You will likely gain access to even more resources if you are able to visit the institution housing it in person. For starters, try Library of Congress | American Memory.
+Government agencies and non-governmental organizations (NGO) 
+If you need statistics and datasets, try UNdata or USA.gov | Reference Center | Data and Statistics
+Primary Sources and Gray Literature
+You may have noticed that there is an overlap between the topic of gray literature and the topic of primary sources. Long story short - Not all Gray Literature is Primary Sources, and not every Primary Source is an example of Gray Literature. But here are some examples of things that are both:
+
+Annual reports
+Government reports
+Unpublished manuscripts
+Data sets
+A researcher's notes or logs.
+
+
