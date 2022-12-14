@@ -1,0 +1,92 @@
+/*
+Theme Name: IBWA
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Template: Divi
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Tags: responsive-layout,one-column,two-columns,three-columns,four-columns,left-sidebar,right-sidebar,custom-background,custom-colors,featured-images,full-width-template,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready
+Version: 3.20.2.1553857575
+Updated: 2019-03-29 07:06:15
+
+*/
+.memlog-sec .fwp-grid {justify-content: center; align-items: center;}
+
+#sidebar li {list-style: none;}
+
+.sidebar_item {display: none;}
+
+
+.organization-member {
+    position: relative;
+}
+
+.organization-member.is-loading {
+
+}
+
+.organization-member.is-loading:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+@keyframes organization-member-delete-spinner {
+    0% {
+        bottom: 80%;
+    }
+
+    98% {
+        width: 1em;
+        height: 1em;
+    }
+
+    99% {
+        width: 1.5em;
+        height: .5em;
+    }
+
+    100% {
+        width: 1.5em;
+        height: .5em;
+        bottom: 0;
+    }
+}
+
+.organization-member.is-loading:after {
+    font-size: 20px;
+    content: "";
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    background: #c00;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    animation: organization-member-delete-spinner 1s ease-in infinite alternate;
+}
+
+
+.organization-member--actions {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+.organization-member:hover .organization-member--actions {display: block;}
+
+.organization-member--actions button {
+    cursor: pointer;
+}
+
+.organization-member--actions [data-member-action="delete"] {
+    color: #c00;
+    font-weight: 700;
+}
